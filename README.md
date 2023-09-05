@@ -15,7 +15,8 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
+<center>
 <table><tr><td valign="top" width="33%">
 
 
@@ -63,6 +64,7 @@
 </div>
 
 </td></tr></table>  
+</center>
 
 <br/>  
 
