@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nigell</h1>
 <h3 align="center">Looking for a better world</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokruzk" alt="gokruzk" /></a> </p>
-
 - 🔭 I’m currently working on **AlojaU**
 
 <h3 align="left">Connect with me:</h3>
