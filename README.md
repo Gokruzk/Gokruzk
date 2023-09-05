@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Nigell, a software developer 👨‍💻</div>  
   
 
@@ -16,8 +11,8 @@
 
 
 ## My Skill Set 
-<center>
-<table><tr><td valign="top" width="33%">
+<div align="center">
+  <table><tr><td valign="top" width="33%">
 
 
 
@@ -64,7 +59,7 @@
 </div>
 
 </td></tr></table>  
-</center>
+</div>
 
 <br/>  
 
