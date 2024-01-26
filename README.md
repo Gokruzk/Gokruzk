@@ -1,10 +1,10 @@
-### <div align="center">I'm Nigell, a software developer 👨‍💻</div>  
+### <div align="center">I'm Nigell, a Backend Developer</div>  
   
 
-- 🔭 I’m currently studying software engineering  
+- 🔭 I’m currently studying Software Engineering  
   
 
-- 🌱 I’m currently working on AlojaU  
+- ❓ Ask me about anything related to relational databases, python, sql  
   
 
 <br/>  
