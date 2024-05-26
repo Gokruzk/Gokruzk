@@ -4,9 +4,6 @@
 - 🔭 I’m currently studying Software Engineering  
   
 
-- ❓ Ask me about anything related to relational databases, python, sql  
-  
-
 <br/>  
 
 
