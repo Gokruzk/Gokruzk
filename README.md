@@ -29,6 +29,4 @@ Software Developer with over one year of experience, skilled in backend and fron
 <a href="https://linkedin.com/in/nigell-marcel-jama-oyarvide-6998921a8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
