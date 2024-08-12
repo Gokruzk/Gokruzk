@@ -23,9 +23,7 @@ Software Developer with over one year of experience, skilled in backend and fron
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Gokruzk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+  
 <a href="https://linkedin.com/in/nigell-marcel-jama-oyarvide-6998921a8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -33,4 +31,5 @@ Software Developer with over one year of experience, skilled in backend and fron
 <a href="https://leetcode.com/u/Gokruzk/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor"/>
 </a>  
+
 </div>
