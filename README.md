@@ -32,4 +32,8 @@ Software Developer with over one year of experience, skilled in backend and fron
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor"/>
 </a>  
 
+<a href="https://www.youtube.com/@gokruzk" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>  
+
 </div>
