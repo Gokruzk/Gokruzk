@@ -28,9 +28,10 @@ Software Developer with over one year of experience, skilled in backend and fron
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-<a href="https://leetcode.com/u/Gokruzk/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor"/>
+<!---  <a href="https://leetcode.com/u/Gokruzk/" target="_blank">
+ <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor"/>
 </a>  
+-->
 
 <a href="https://www.youtube.com/@gokruzk" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
