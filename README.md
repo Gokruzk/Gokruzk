@@ -1,5 +1,5 @@
 ### About me:
-Software Developer with over one year of experience, skilled in backend and frontend technologies. Always looking to implement engineering in all projects. Highly motivated individual, capable of taking on new challenges, learning quickly, and adapting to new technologies and environments. Proficient in collaborative culture and working effectively with diverse teams to achieve project goals while sharing my experience and knowledge with partners.  
+Software Engineer with over one year of experience, skilled in backend and frontend technologies. Always looking to implement engineering in all projects. Capable of taking on new challenges, learning quickly, and adapting to new technologies and environments. Proficient in collaborative culture and working effectively with diverse teams to achieve project goals while sharing my experience with partners.  
 
 ## Languages  
 | Python | JS | TS | C++ | C# |
