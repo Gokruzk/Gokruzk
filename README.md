@@ -4,7 +4,7 @@
 
 Software Engineer with over one year of hands-on experience building scalable solutions. I'm passionate about applying engineering best practices to every project and continuously expanding my technical skillset. I thrive in collaborative environments, adapt quickly to new technologies, and enjoy sharing knowledge with my team.
 
-- 🔭 Currently working on backend development with Python and Java
+- 🔭 Currently working on backend development
 - 🌱 Always learning and exploring new technologies
 - 💡 Strong believer in clean code and software craftsmanship
 - 🤝 Open to collaborating on interesting projects
@@ -15,9 +15,9 @@ Software Engineer with over one year of hands-on experience building scalable so
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45"/><br>**Python** | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" height="45"/><br>**TypeScript** | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" height="45"/><br>**Java** |
 |:---:|:---:|:---:|
 
-### Frameworks & Libraries
-| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/><br>**FastAPI** | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45" height="45"/><br>**Spring Boot** | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="45" height="45"/><br>**SQLAlchemy** | <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="45" height="45"/><br>**Prisma** |
-|:---:|:---:|:---:|:---:|
+### Frameworks
+| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45" height="45"/><br>**FastAPI** | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="45" height="45"/><br>**NestJS** | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="45" height="45"/><br>**Spring Boot** |
+|:---:|:---:|:---:|
 
 ### Databases
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/><br>**PostgreSQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/><br>**MySQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45"/><br>**MS SQL Server** | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>**MongoDB** |
