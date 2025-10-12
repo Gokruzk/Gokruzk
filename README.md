@@ -27,14 +27,6 @@ Software Engineer with over one year of hands-on experience building scalable so
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/><br>**Git** | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/><br>**Docker** | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" height="45"/><br>**Postman** | <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="45" height="45"/><br>**Neovim** |
 |:---:|:---:|:---:|:---:|
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokruzk&layout=compact&theme=radical)
-
-</div>
-
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just chat!
