@@ -23,9 +23,9 @@ Software Engineer with over one year of hands-on experience building scalable so
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/><br>**PostgreSQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" height="45"/><br>**MySQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45"/><br>**MS SQL Server** | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>**MongoDB** |
 |:---:|:---:|:---:|:---:|
 
-### Tools & Technologies
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/><br>**Git** | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/><br>**Docker** | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" height="45"/><br>**Postman** | <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="45" height="45"/><br>**Neovim** |
-|:---:|:---:|:---:|:---:|
+### More
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45" height="45"/><br>**Linux** | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45" height="45"/><br>**Git** | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45" height="45"/><br>**Docker** | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" height="45"/><br>**Postman** | <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" width="45" height="45"/><br>**Neovim** |
+|:---:|:---:|:---:|:---:|:---:|
 
 ## 📫 Let's Connect!
 
