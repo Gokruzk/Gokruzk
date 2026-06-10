@@ -1,4 +1,4 @@
-# Hi there, I'm Nigell Marcel 👋
+# Hi there, I'm Nigell 👋
 
 ## 👨‍💻 About Me
 
