@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with over one year of hands-on experience building scalable solutions. I'm passionate about applying engineering best practices to every project and continuously expanding my technical skillset. I thrive in collaborative environments, adapt quickly to new technologies, and enjoy sharing knowledge with my team.
+Software Engineer with hands-on experience developing web applications and backend systems. Pragmatic
+developer focused on workﬂow optimization, clean code practices, and technical adaptability.
 
-- 🔭 Currently working on backend development
 - 🌱 Always learning and exploring new technologies
 - 💡 Strong believer in clean code and software craftsmanship
 - 🤝 Open to collaborating on interesting projects
